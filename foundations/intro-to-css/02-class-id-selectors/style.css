@@ -3,16 +3,16 @@
     font-family: Verdana, 'Dejavu Sans', sans-serif;
 }
 
-.odd.three {
+.three {
     font-size: 24px;
 }
 
-.even#two {
+#two {
     color: #0000ff;
     font-size: 36px;
 }
 
-.even#four {
+#four {
     background-color: #90ee90;
     font-size: 24px;
     font-weight: bold;
